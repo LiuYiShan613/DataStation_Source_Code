@@ -6,7 +6,8 @@ A. 精準行銷用相關檔案
   - RFM_Cluster.ipynb 顧客RFM分群
   - 1_Kmeans_RFM_origin.ipynb 利用RFM進行K-means分群
   - Day_category.ipynb LSTM回測銷售額與特殊節日提取
-  - 單位時間購買次數與金額預測
+  - BG_NBD_no_origin.ipynb(去除特殊節日)單位時間購買次數與金額預測
+  - BG_NBD_no_specialday.ipynb(去除特殊節日)單位時間購買次數與金額預測
 
 
 B. 顧客行為預測相關檔案
