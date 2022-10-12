@@ -19,7 +19,7 @@ C. 資料處理
   - IQR.ipynb 去除原始資料的IQR欄位
 
 D. 檔案集
-  -specialday13.csv 2020-2021年日銷售額最高的前2%日期列表 (作為促銷常購清單)
-  -specialdaylist.csv 2020-2021年日銷售額最高的前20%日期列表 (去除日期成為常態時間)
+  - specialday13.csv 2020-2021年日銷售額最高的前2%日期列表 (作為促銷常購清單)
+  - specialdaylist.csv 2020-2021年日銷售額最高的前20%日期列表 (去除日期成為常態時間)
   - highsale_new.csv 特殊節日的高銷量產品列表
   - value_new.csv 特殊節日高價值商品列表
