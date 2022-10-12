@@ -3,7 +3,8 @@
 A. 精準行銷用相關檔案
   - Apriori.ipynb 購買商品關聯式分析
   - Festival_productlist.ipynb  節日貢獻銷售額高的商品分析
-  - 1_Kmeans_RFM_origin.ipynb 顧客RFM x K-means分群
+  - RFM_Cluster.ipynb 顧客RFM分群
+  - 1_Kmeans_RFM_origin.ipynb 利用RFM進行K-means分群
   - Day_category.ipynb LSTM回測銷售額與特殊節日提取
   - 單位時間購買次數與金額預測
 
