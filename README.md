@@ -12,7 +12,7 @@ A. 精準行銷用相關檔案
 
 B. 顧客行為預測相關檔案
   - Predcit_next_purchased_product.ipynb 顧客購買次數最高的商品
-  - item2vec利用item2vec找出與購買商品最相似的商品
+  - item2vec.ipynb利用item2vec找出與購買商品最相似的商品
   - RFMbased_customer_value_predict.ipynb 分析高價值顧客作為促銷目標
 
 C. 資料處理
