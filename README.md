@@ -23,3 +23,5 @@ D. 檔案集
   - specialdaylist.csv 2020-2021年日銷售額最高的前20%日期列表 (去除日期成為常態時間)
   - highsale_new.csv 特殊節日的高銷量產品列表
   - value_new.csv 特殊節日高價值商品列表
+  - dashboard.xlsm 分析與預測結果儀表板
+  - Carry4_最終結果.ppt 最終成果簡報
